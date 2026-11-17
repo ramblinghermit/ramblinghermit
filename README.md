@@ -18,7 +18,7 @@
 
 I am a Full-Stack Software Engineer & Systems Builder focused on **Agentic AI**, **Autonomous Orchestration**, and **High-Performance Memory Architectures for LLMs**. I build end-to-end distributed agent infrastructures, robust vector retrieval pipelines, and open-source tooling that bridge language models with external tools via the **Model Context Protocol (MCP)**.
 
-- 🧠 **Creator of MemWyre**: Universal persistent memory layer for AI agents with multi-view episodic recall and adaptive indexing.
+- 🧠 **Creator of Memwyre**: Universal persistent memory layer for AI agents with multi-view episodic recall and adaptive indexing.
 - 🌉 **Creator of AgentBridge**: LLM tool orchestration platform integrating LangChain with MCP servers (featured on [Awesome MCP Clients](https://github.com/punkpeye/awesome-mcp-clients/pull/140)).
 - ⚡ **LoCoMo Benchmark Pioneer**: Engineered memory benchmark integrations with multi-judge evaluation across Azure, AWS Bedrock, and LLM-Mux, hitting **0.47 MRR** and **73% Recall@K**.
 - 🏆 **Global Rank #1825 / 537,000+** in TCS CodeVita Season 13 (Top 0.34% worldwide).
